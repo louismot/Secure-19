@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="997ac1c3-0877-4b1d-9154-b57a4d631431" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1k487o4pJSQi3CRxlOTQcJp4ygR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../lc-book-catalog" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="997ac1c3-0877-4b1d-9154-b57a4d631431" name="Default Changelist" comment="" />
+      <created>1604948341959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604948341959</updated>
+      <workItem from="1604948343617" duration="1564000" />
+      <workItem from="1605018263421" duration="1858000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="372" y="706" width="426" height="484" key="FileChooserDialogImpl" timestamp="1605016552971">
+      <screen x="0" y="0" width="3440" height="1416" />
+    </state>
+    <state x="372" y="706" width="426" height="484" key="FileChooserDialogImpl/0.0.3440.1416@0.0.3440.1416" timestamp="1605016552971" />
+    <state x="1519" y="354" width="914" height="888" key="dock-window-1" timestamp="1605016855985">
+      <screen x="0" y="0" width="3440" height="1416" />
+    </state>
+    <state x="1519" y="354" width="914" height="888" key="dock-window-1/0.0.3440.1416@0.0.3440.1416" timestamp="1605016855985" />
+  </component>
+</project>
