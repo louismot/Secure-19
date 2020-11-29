@@ -1,15 +1,18 @@
 <template>
   <div id="app">
-    <Buttons msg="Welcome to the Secure-19 Tracking App"/>
+    <Header/>
+    <Buttons/>
   </div>
 </template>
 
 <script>
 import Buttons from './components/Buttons.vue'
+import Header from "@/components/Header";
 
 export default {
   name: 'App',
   components: {
+    Header,
     Buttons
   }
 }
