@@ -1,15 +1,18 @@
 <template>
   <div id="app">
-    <Buttons msg="Welcome to the Secure-19 Tracking App"/>
+    <Header/>
+    <Buttons/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/Buttons.vue'
+import Buttons from './components/Buttons.vue'
+import Header from "@/components/Header";
 
 export default {
   name: 'App',
   components: {
+    Header,
     Buttons
   }
 }
@@ -22,6 +25,6 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin-top: 30px;
 }
 </style>
