@@ -1,11 +1,10 @@
 <template>
   <div>
     <b-jumbotron style="background-color: #1C9ADD" text-variant="grey">
-      <template #header>BootstrapVue</template>
+      <template #header>Secure-19</template>
 
       <template #lead>
-        This is a simple hero unit, a simple jumbotron-style component for calling extra attention to
-        featured content or information.
+        Secure-19 is a smart contract implementation of a COVID-19 tracking system.
       </template>
 
       <hr class="my-4">
