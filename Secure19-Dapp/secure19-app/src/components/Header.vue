@@ -4,8 +4,10 @@
       <template #header>Secure-19</template>
 
       <template #lead>
-        Secure-19 is a smart contract implementation of a COVID-19 tracking system.
+        To use this COVID-19 test tracker, you must connect to MetaMask.
       </template>
+
+      <b-button pill v-b-modal.meatMask style="background-color: orangered;  color: black">Connect</b-button>
 
       <hr class="my-4">
 
